@@ -25,8 +25,8 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:80]
-[WINDOWEDY:25]
+[WINDOWEDX:0]
+[WINDOWEDY:0]
 [FONT:Myne.png]
 
 You may disable window resizing if you wish.
@@ -64,7 +64,7 @@ On a multi-core machine none of this is very likely to matter; stick to 2D.
 
 Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
-[PRINT_MODE:2D]
+[PRINT_MODE:TWBT]
 	Mode examples:
 	 PRINT_MODE:2D
 	 PRINT_MODE:TEXT
