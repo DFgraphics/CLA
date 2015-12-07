@@ -25,9 +25,9 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:0]
-[WINDOWEDY:0]
-[FONT:Myne.png]
+[WINDOWEDX:80]
+[WINDOWEDY:25]
+[FONT:CLA.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:YES]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:0]
 [FULLSCREENY:0]
-[FULLFONT:Myne.png]
+[FULLFONT:CLA.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
@@ -64,7 +64,7 @@ On a multi-core machine none of this is very likely to matter; stick to 2D.
 
 Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
-[PRINT_MODE:TWBT]
+[PRINT_MODE:2D]
 	Mode examples:
 	 PRINT_MODE:2D
 	 PRINT_MODE:TEXT
@@ -74,7 +74,7 @@ Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
 Switches truetype on whenever the vertical tile size is this many pixels or larger.  You may also use YES/NO to force it on/off.  Turning it off may provide a minor speed boost (using font small enough that it doesn't activate won't).
 
-[TRUETYPE:NO]
+[TRUETYPE:YES]
 
 Change this to YES to keep the DF window on top of your other windows.
 
