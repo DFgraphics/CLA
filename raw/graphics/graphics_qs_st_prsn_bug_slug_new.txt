@@ -3,7 +3,7 @@ graphics_qs_st_prsn_bug_slug_new
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PSN_BUG_SLU_NEW1]
-	[FILE:graphics_qs_st_prsn_bug_slug_new_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_bug_slug_new_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:14:52]
 

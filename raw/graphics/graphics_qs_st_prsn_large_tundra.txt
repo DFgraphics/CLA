@@ -3,7 +3,7 @@ graphics_qs_st_prsn_large_tundra
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PSN_LAR_TUN1]
-	[FILE:graphics_qs_st_prsn_large_tundra_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_large_tundra_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:3:52]
 

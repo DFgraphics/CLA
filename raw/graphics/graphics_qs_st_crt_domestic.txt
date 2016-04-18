@@ -3,7 +3,7 @@ graphics_qs_st_crt_domestic
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:CRT_DOM]
-	[FILE:graphics_qs_st_crt_domestic_18x18.png]
+	[FILE:CLA/graphics_qs_st_crt_domestic_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:22:5]
 

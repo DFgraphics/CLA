@@ -3,7 +3,7 @@ graphics_qs_st_crt_reptiles
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:CRT_REP]
-	[FILE:graphics_qs_st_crt_reptiles_18x18.png]
+	[FILE:CLA/graphics_qs_st_crt_reptiles_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:10:5]
 

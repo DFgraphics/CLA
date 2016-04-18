@@ -3,7 +3,7 @@ graphics_qs_st_crt_birds_new
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:CRT_BIR_NEW]
-	[FILE:graphics_qs_st_crt_birds_new_18x18.png]
+	[FILE:CLA/graphics_qs_st_crt_birds_new_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:56:5]
 

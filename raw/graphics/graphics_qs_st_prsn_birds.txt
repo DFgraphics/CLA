@@ -3,7 +3,7 @@ graphics_qs_st_prsn_birds
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PSN_BIR1]
-	[FILE:graphics_qs_st_prsn_birds_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_birds_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:9:52]
 

@@ -3,7 +3,7 @@ graphics_qs_st_prsn_birds_new
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PSN_BIR_NEW1]
-	[FILE:graphics_qs_st_prsn_birds_new1_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_birds_new1_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:14:52]
 
@@ -3887,7 +3887,7 @@ graphics_qs_st_prsn_birds_new
 
 
 [TILE_PAGE:PSN_BIR_NEW2]
-	[FILE:graphics_qs_st_prsn_birds_new2_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_birds_new2_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:14:52]
 

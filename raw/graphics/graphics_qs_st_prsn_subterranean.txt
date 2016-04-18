@@ -3,7 +3,7 @@ graphics_qs_st_prsn_subterranean
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PSN_SUB1]
-	[FILE:graphics_qs_st_prsn_subterranean_18x18.png]
+	[FILE:CLA/graphics_qs_st_prsn_subterranean_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:4:52]
 

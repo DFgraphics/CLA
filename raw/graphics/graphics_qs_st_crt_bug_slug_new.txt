@@ -3,7 +3,7 @@ graphics_qs_st_crt_bug_slug_new
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:CRT_BUG_SLU_NEW]
-	[FILE:graphics_qs_st_crt_bug_slug_new_18x18.png]
+	[FILE:CLA/graphics_qs_st_crt_bug_slug_new_18x18.png]
 	[TILE_DIM:18:18]
 	[PAGE_DIM:29:5]
 
