@@ -2781,7 +2781,7 @@ graphics_qs_st_prsn_temperate_new
 [TILE_PAGE:PSN_TEM_NEW2]
 	[FILE:CLA/graphics_qs_st_prsn_temperate_new2_18x18.png]
 	[TILE_DIM:18:18]
-	[PAGE_DIM:11:52]
+	[PAGE_DIM:10:52]
 
 [CREATURE_GRAPHICS:SKUNK_MAN]
 	[DEFAULT:PSN_TEM_NEW2:0:0:ADD_COLOR:DEFAULT]
