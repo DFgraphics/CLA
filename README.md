@@ -1,5 +1,5 @@
 #CLA Graphic Set
-This is a Graphic set for Dwarf Fortress, intended to be used with ASCII-like tilesets with a tile size of 18x18px such as Haowan or Myne. It contains two tilesets, creature graphics, a color scheme and a TTF Font 
+This is a Graphic set for Dwarf Fortress, intended to be used with ASCII-like tilesets with a tile size of 18x18px such as Haowan or Myne. It contains three tilesets, creature graphics, a color scheme and a TTF Font 
 
 ##Installation
 ###Preinstalled (Windows only)
@@ -19,6 +19,9 @@ This is a Graphic set for Dwarf Fortress, intended to be used with ASCII-like ti
 - Open `data/init.txt` with a text editor and change [GRAPHICS:NO] to [GRAPHICS:YES].
 - generate new world and embark!
 
+#### Change the tileset only
+- Open up init.txt (in `data/init/`) with a text editor
+- change the entries `FONT`, `FULLFONT`, `GRAPHICS_FONT`, and `GRAPHICS_FULLFONT` to the filename of your new tileset.
 
 To update, just download the newest STANDALONE pack and repeat the steps above.
 For more information and download links, visit the [bay12forum thread] (http://www.bay12forums.com/smf/index.php?topic=105376.0).
