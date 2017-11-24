@@ -14,7 +14,7 @@ Use these to control the automatic saving behavior in the dwarf fortress mode of
 
 Set this to YES if you want it to save the game when you start a new fortress.  If AUTOBACKUP above is set to YES, it will also create a copy of this new save.
 
-[INITIAL_SAVE:YES]
+[INITIAL_SAVE:NO]
 
 Set this to NO to make Dwarf Fortress remain in the saved pause state when you load an active game.
 
@@ -51,7 +51,7 @@ Change this to YES to output the reasons for world map rejection into a file.
 
 Change these numbers to make the embark rectangle start at a different size.  The format is (EMBARK_RECTANGLE:<width>:<height>).  Numbers may run from 2 to 16.  The map size warning message will go by these numbers.
 
-[EMBARK_RECTANGLE:3:3]
+[EMBARK_RECTANGLE:4:4]
 
 Change these numbers to set the default weights for traffic designations.  If you make the last numbers too large, pathfinding might lag.
 The format is (PATH_COST:<high>:<normal>:<low>:<restricted>).
@@ -92,6 +92,7 @@ Pillar tile, <character> as above.
 [PILLAR_TILE:'O']
 
 Track tiles.  I at the end inverts the material colors.
+
 
 [TRACK_N:210I]
 [TRACK_S:208I]
