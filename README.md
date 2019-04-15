@@ -24,4 +24,4 @@ This is a Graphic set for Dwarf Fortress, intended to be used with ASCII-like ti
 - change the entries `FONT`, `FULLFONT`, `GRAPHICS_FONT`, and `GRAPHICS_FULLFONT` to the filename of your new tileset.
 
 To update, just download the newest STANDALONE pack and repeat the steps above.
-For more information and download links, visit the [bay12forum thread] (http://www.bay12forums.com/smf/index.php?topic=105376.0).
+For more information and download links, visit the [bay12forum thread](http://www.bay12forums.com/smf/index.php?topic=105376.0).
